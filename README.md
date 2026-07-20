@@ -155,4 +155,7 @@ This project was developed for an official industrial data mining competition on
 The solution achieved **Third Prize**, ranked among the top teams.
 
 **Third Prize Certificate**
-<img width="1196" height="853" alt="image" src="https://github.com/user-attachments/assets/05f754a7-70f6-40dd-89e1-e6541f9cb325" />
+<p align="center">
+  <img src="./cert_eng.png" width="850">
+</p>
+
